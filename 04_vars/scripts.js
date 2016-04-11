@@ -1,2 +1,7 @@
-var kat = "hello world";
-doc.write(<h1>kat</h1>)
+var content = "hello world";
+
+content+="<h1> this is a heading</h1>";
+
+content+="<h1> ayyyyyyyyyyyyyyyyy lmao</h1>";
+
+document.write(content);
